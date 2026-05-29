@@ -1,3 +1,9 @@
+### Author
+Shirui, Guo
+
+### Description
+* Official PyTorch implementation of OCM: A deep-learning Python module for reconstructing 3D volumes from encoded 2D measurements. Code for the paper "Off-axis Compressed Encoding for High-Resolution, High-Throughput, High-Contrast Volumetric Microscopy".
+
 ### Software
 
 * Python 3.11 (tested on)
